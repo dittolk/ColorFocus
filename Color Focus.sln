@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BF037301-312A-E9CB-D490-2DFE31F98CF9}") = "Color Focus", "Assembly-CSharp-firstpass.csproj", "{8850F026-A70D-5E85-7AC3-A356F0E0D9B6}"
+EndProject
+Project("{BF037301-312A-E9CB-D490-2DFE31F98CF9}") = "Color Focus", "Assembly-CSharp.csproj", "{06435A41-186B-6E5E-3B88-F81491E0D150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8850F026-A70D-5E85-7AC3-A356F0E0D9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8850F026-A70D-5E85-7AC3-A356F0E0D9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8850F026-A70D-5E85-7AC3-A356F0E0D9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8850F026-A70D-5E85-7AC3-A356F0E0D9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06435A41-186B-6E5E-3B88-F81491E0D150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06435A41-186B-6E5E-3B88-F81491E0D150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06435A41-186B-6E5E-3B88-F81491E0D150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06435A41-186B-6E5E-3B88-F81491E0D150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
